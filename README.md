@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
-I'm a **Python & React Developer** with over a year of hands-on experience in creating impactful and dynamic web applications.
+I'm a **Python & React Developer** with **1+** year of hands-on experience in creating impactful and dynamic web applications.
 
 ## 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,30 +15,6 @@ I'm a **Python & React Developer** with over a year of hands-on experience in cr
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-## 🛠️ Work Experience
-
-### GlobalLogic | Associate Software Engineer
-*July 2022 - September 2023*
-
-- Developed a pet pharmaceutical website using Python and Django, increasing site functionality by 30%.
-- Implemented user registration, boosting registered users by 20%.
-- Resolved 15 critical issues, achieving a 99.9% uptime and reducing downtime by 20%.
-- Conducted Root Cause Analysis (RCA) on production issues.
-- Optimized performance, enhancing response time by 15%.
-
-### MAQ Software | Associate Software Engineer
-*February 2022 - April 2022*
-
-- Customized CRM system with JavaScript in Dynamics 365, increasing system efficiency by 15% and user satisfaction by 20%.
-- Created 10 interactive elements, improving data accessibility and decision-making by 25%.
-- Embedded JavaScript functionalities for field visibility, automated calculations, and real-time data validation.
-
-
-## 🎓 Education
-
-- **B. Tech in Computer Science Engineering**  
-  Chandigarh Group of College Landran, India (2018 - 2022) 
 
 ## 📜 Certifications
 
