@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kunal Upadhyay! 🌟
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+
 
 I'm a **Python & React Developer** with **1+** year of hands-on experience in creating impactful and dynamic web applications.
 
